@@ -5,3 +5,7 @@ __pycache__/
 
 # Zip archives (extracted into subfolders)
 *.zip
+
+# Go build output
+/go/snake-roguelite.exe
+*.exe
